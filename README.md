@@ -1,0 +1,2 @@
+# copi
+🖨️ simplifying printing
